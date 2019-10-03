@@ -1,3 +1,7 @@
+
+<!-- Markdown snippet -->
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/netlify-statuskit)
+
 # Ghost Docs
 
 This is the repository for [Ghost](https://github.com/tryghost/ghost)'s official documentation, located at https://docs.ghost.org. You'll probably just want to head over there and read them directly on the web.
